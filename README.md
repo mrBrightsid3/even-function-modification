@@ -1,1 +1,1 @@
-# even-function-modification
+Given a piecewise linear function defined by integer points (x_i, y_i), in order to obtain the graph of the function, it is necessary to connect adjacent points in terms of their x-coordinate. The task is to determine whether it is possible to shift the axes by a parallel translation (i.e., x' = x + C1; y' = y + C2) such that the given polyline becomes an even function in the new coordinate system.
